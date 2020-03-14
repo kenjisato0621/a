@@ -1,3 +1,4 @@
 a = "sato"
 b = "kenji"
-puts a + b
+c = "desu"
+puts a + b +c
